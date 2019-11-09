@@ -1,0 +1,38 @@
+body{
+    font-family: "Open Sans";
+    background-color: #ffffff;
+    color: #444;
+}
+
+a{
+    color: #444;
+}
+
+i:hover{
+    color: #FFEA00;
+    cursor: pointer;
+}
+
+h1{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+.highlight{
+    color: #FFEA00;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.connect{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
